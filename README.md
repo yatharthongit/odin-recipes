@@ -1,1 +1,2 @@
 # odin-recipes
+This is an HTML project of a recipe book containing different recipes in different projects. I have used Headings, Paragraphs , Images , List and various kinds of tags. I have also linked different HTML pages on my main Project file by using anchor tag.
