@@ -1,0 +1,11 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    font-size: 100px;
+}
+ul{
+    font-size: 50px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
