@@ -1,11 +1,30 @@
+*{
+    box-sizing: border-box;
+}
 body{
     background-color: blanchedalmond;
 }
 
 h1{
-    font-size: 100px;
+    font-size: 80px;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: aquamarine;
+   
 }
 ul{
     font-size: 50px;
     font-family: "Lucida Console", "Courier New", monospace;
+    width: 690px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+li{
+    text-align: center;
+    margin: 40px 0;
+    background-color: rgb(250, 212, 162);
+    padding: 15px;
+    
 }
